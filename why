@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CSS and HTML Test</title>
+</head>
+<hl>
+<h2>Insert Random Image Below<h2>
+styledimg {
+background-image: url(https://images.app.goo.gl/tZ5vHDVqjd1Qirxf9);
+background-repeat: no-repeat;
+width: 10px;
+height: 20px;
+}
+<h2>Why do I exist?</h2>
+
